@@ -1,0 +1,1982 @@
+Requirement already satisfied: pdfplumber in /usr/local/lib/python3.12/dist-packages (0.11.7)
+Requirement already satisfied: pymupdf in /usr/local/lib/python3.12/dist-packages (1.26.5)
+Requirement already satisfied: Pillow in /usr/local/lib/python3.12/dist-packages (11.3.0)
+Requirement already satisfied: pytesseract in /usr/local/lib/python3.12/dist-packages (0.3.13)
+Requirement already satisfied: pdfminer.six==20250506 in /usr/local/lib/python3.12/dist-packages (from pdfplumber) (20250506)
+Requirement already satisfied: pypdfium2>=4.18.0 in /usr/local/lib/python3.12/dist-packages (from pdfplumber) (5.0.0)
+Requirement already satisfied: charset-normalizer>=2.0.0 in /usr/local/lib/python3.12/dist-packages (from pdfminer.six==20250506->pdfplumber) (3.4.4)
+Requirement already satisfied: cryptography>=36.0.0 in /usr/local/lib/python3.12/dist-packages (from pdfminer.six==20250506->pdfplumber) (43.0.3)
+Requirement already satisfied: packaging>=21.3 in /usr/local/lib/python3.12/dist-packages (from pytesseract) (25.0)
+Requirement already satisfied: cffi>=1.12 in /usr/local/lib/python3.12/dist-packages (from cryptography>=36.0.0->pdfminer.six==20250506->pdfplumber) (2.0.0)
+Requirement already satisfied: pycparser in /usr/local/lib/python3.12/dist-packages (from cffi>=1.12->cryptography>=36.0.0->pdfminer.six==20250506->pdfplumber) (2.23)
+--- Page 1 ---
+Page width/height: 841.92 594.96
+--- Page 2 ---
+Page width/height: 841.92 594.96
+--- Page 3 ---
+Page width/height: 841.92 594.96
+--- Page 4 ---
+Page width/height: 841.92 594.96
+--- Page 5 ---
+Page width/height: 841.92 594.96
+--- Page 6 ---
+Page width/height: 841.92 594.96
+--- Page 7 ---
+Page width/height: 792.0 612.0
+--- Page 8 ---
+Page width/height: 792.0 612.0
+--- Page 9 ---
+Page width/height: 792.0 612.0
+--- Page 10 ---
+Page width/height: 792.0 612.0
+--- Page 11 ---
+Page width/height: 792.0 612.0
+--- Page 12 ---
+Page width/height: 792.0 612.0
+--- Page 13 ---
+Page width/height: 792.0 612.0
+--- Page 14 ---
+Page width/height: 792.0 612.0
+--- Page 15 ---
+Page width/height: 792.0 612.0
+--- Page 16 ---
+Page width/height: 792.0 612.0
+--- Page 17 ---
+Page width/height: 792.0 612.0
+--- Page 18 ---
+Page width/height: 792.0 612.0
+--- Page 19 ---
+Page width/height: 612.0 792.0
+--- Page 20 ---
+Page width/height: 612.0 792.0
+--- Page 21 ---
+Page width/height: 612.0 792.0
+--- Page 22 ---
+Page width/height: 612.0 792.0
+--- Page 23 ---
+Page width/height: 612.0 792.0
+--- Page 24 ---
+Page width/height: 612.0 792.0
+--- Page 25 ---
+Page width/height: 612.0 792.0
+--- Page 26 ---
+Page width/height: 612.0 792.0
+--- Page 27 ---
+Page width/height: 612.0 792.0
+--- Page 28 ---
+Page width/height: 612.0 792.0
+--- Page 29 ---
+Page width/height: 612.0 792.0
+--- Page 30 ---
+Page width/height: 612.0 792.0
+--- Page 31 ---
+Page width/height: 612.0 792.0
+--- Page 32 ---
+Page width/height: 612.0 792.0
+--- Page 33 ---
+Page width/height: 612.0 792.0
+--- Page 34 ---
+Page width/height: 612.0 792.0
+--- Page 35 ---
+Page width/height: 612.0 792.0
+--- Page 36 ---
+Page width/height: 612.0 792.0
+--- Page 37 ---
+Page width/height: 612.0 792.0
+--- Page 38 ---
+Page width/height: 612.0 792.0
+--- Page 39 ---
+Page width/height: 612.0 792.0
+--- Page 40 ---
+Page width/height: 612.0 792.0
+--- Page 41 ---
+Page width/height: 612.0 792.0
+--- Page 42 ---
+Page width/height: 612.0 792.0
+--- Page 43 ---
+Page width/height: 612.0 792.0
+--- Page 44 ---
+Page width/height: 612.0 792.0
+--- Page 45 ---
+Page width/height: 612.0 792.0
+--- Page 46 ---
+Page width/height: 612.0 792.0
+--- Page 47 ---
+Page width/height: 612.0 792.0
+--- Page 48 ---
+Page width/height: 612.0 792.0
+--- Page 49 ---
+Page width/height: 612.0 792.0
+--- Page 50 ---
+Page width/height: 612.0 792.0
+--- Page 51 ---
+Page width/height: 612.0 792.0
+--- Page 52 ---
+Page width/height: 612.0 792.0
+--- Page 53 ---
+Page width/height: 612.0 792.0
+--- Page 54 ---
+Page width/height: 612.0 792.0
+--- Page 55 ---
+Page width/height: 612.0 792.0
+--- Page 56 ---
+Page width/height: 612.0 792.0
+--- Page 57 ---
+Page width/height: 612.0 792.0
+--- Page 58 ---
+Page width/height: 612.0 792.0
+--- Page 59 ---
+Page width/height: 612.0 792.0
+--- Page 60 ---
+Page width/height: 612.0 792.0
+--- Page 61 ---
+Page width/height: 612.0 792.0
+--- Page 62 ---
+Page width/height: 612.0 792.0
+--- Page 63 ---
+Page width/height: 612.0 792.0
+--- Page 64 ---
+Page width/height: 612.0 792.0
+--- Page 65 ---
+Page width/height: 612.0 792.0
+--- Page 66 ---
+Page width/height: 612.0 792.0
+--- Page 67 ---
+Page width/height: 612.0 792.0
+--- Page 68 ---
+Page width/height: 612.0 792.0
+--- Page 69 ---
+Page width/height: 612.0 792.0
+--- Page 70 ---
+Page width/height: 612.0 792.0
+--- Page 71 ---
+Page width/height: 612.0 792.0
+--- Page 72 ---
+Page width/height: 612.0 792.0
+--- Page 73 ---
+Page width/height: 612.0 792.0
+--- Page 74 ---
+Page width/height: 612.0 792.0
+--- Page 75 ---
+Page width/height: 612.0 792.0
+--- Page 76 ---
+Page width/height: 612.0 792.0
+--- Page 77 ---
+Page width/height: 612.0 792.0
+--- Page 78 ---
+Page width/height: 612.0 792.0
+--- Page 79 ---
+Page width/height: 612.0 792.0
+--- Page 80 ---
+Page width/height: 612.0 792.0
+--- Page 81 ---
+Page width/height: 612.0 792.0
+--- Page 82 ---
+Page width/height: 612.0 792.0
+--- Page 83 ---
+Page width/height: 612.0 792.0
+--- Page 84 ---
+Page width/height: 612.0 792.0
+--- Page 85 ---
+Page width/height: 612.0 792.0
+--- Page 86 ---
+Page width/height: 612.0 792.0
+--- Page 87 ---
+Page width/height: 612.0 792.0
+--- Page 88 ---
+Page width/height: 612.0 792.0
+--- Page 89 ---
+Page width/height: 612.0 792.0
+--- Page 90 ---
+Page width/height: 612.0 792.0
+--- Page 91 ---
+Page width/height: 612.0 792.0
+--- Page 92 ---
+Page width/height: 612.0 792.0
+--- Page 93 ---
+Page width/height: 612.0 792.0
+--- Page 94 ---
+Page width/height: 612.0 792.0
+--- Page 95 ---
+Page width/height: 612.0 792.0
+--- Page 96 ---
+Page width/height: 612.0 792.0
+--- Page 97 ---
+Page width/height: 612.0 792.0
+--- Page 98 ---
+Page width/height: 612.0 792.0
+--- Page 99 ---
+Page width/height: 612.0 792.0
+--- Page 100 ---
+Page width/height: 612.0 792.0
+--- Page 101 ---
+Page width/height: 612.0 792.0
+--- Page 102 ---
+Page width/height: 612.0 792.0
+--- Page 103 ---
+Page width/height: 612.0 792.0
+--- Page 104 ---
+Page width/height: 612.0 792.0
+--- Page 105 ---
+Page width/height: 612.0 792.0
+--- Page 106 ---
+Page width/height: 612.0 792.0
+--- Page 107 ---
+Page width/height: 612.0 792.0
+--- Page 108 ---
+Page width/height: 612.0 792.0
+--- Page 109 ---
+Page width/height: 612.0 792.0
+--- Page 110 ---
+Page width/height: 612.0 792.0
+--- Page 111 ---
+Page width/height: 612.0 792.0
+--- Page 112 ---
+Page width/height: 612.0 792.0
+--- Page 113 ---
+Page width/height: 612.0 792.0
+--- Page 114 ---
+Page width/height: 612.0 792.0
+--- Page 115 ---
+Page width/height: 612.0 792.0
+--- Page 116 ---
+Page width/height: 612.0 792.0
+--- Page 117 ---
+Page width/height: 612.0 792.0
+--- Page 118 ---
+Page width/height: 612.0 792.0
+--- Page 119 ---
+Page width/height: 612.0 792.0
+--- Page 120 ---
+Page width/height: 612.0 792.0
+--- Page 121 ---
+Page width/height: 612.0 792.0
+--- Page 122 ---
+Page width/height: 612.0 792.0
+--- Page 123 ---
+Page width/height: 612.0 792.0
+--- Page 124 ---
+Page width/height: 612.0 792.0
+--- Page 125 ---
+Page width/height: 612.0 792.0
+--- Page 126 ---
+Page width/height: 612.0 792.0
+--- Page 127 ---
+Page width/height: 612.0 792.0
+--- Page 128 ---
+Page width/height: 612.0 792.0
+--- Page 129 ---
+Page width/height: 612.0 792.0
+--- Page 130 ---
+Page width/height: 612.0 792.0
+--- Page 131 ---
+Page width/height: 612.0 792.0
+--- Page 132 ---
+Page width/height: 612.0 792.0
+--- Page 133 ---
+Page width/height: 612.0 792.0
+--- Page 134 ---
+Page width/height: 612.0 792.0
+--- Page 135 ---
+Page width/height: 612.0 792.0
+--- Page 136 ---
+Page width/height: 612.0 792.0
+--- Page 137 ---
+Page width/height: 612.0 792.0
+--- Page 138 ---
+Page width/height: 612.0 792.0
+--- Page 139 ---
+Page width/height: 612.0 792.0
+--- Page 140 ---
+Page width/height: 612.0 792.0
+--- Page 141 ---
+Page width/height: 612.0 792.0
+--- Page 142 ---
+Page width/height: 612.0 792.0
+--- Page 143 ---
+Page width/height: 612.0 792.0
+--- Page 144 ---
+Page width/height: 612.0 792.0
+--- Page 145 ---
+Page width/height: 612.0 792.0
+--- Page 146 ---
+Page width/height: 612.0 792.0
+--- Page 147 ---
+Page width/height: 612.0 792.0
+--- Page 148 ---
+Page width/height: 612.0 792.0
+--- Page 149 ---
+Page width/height: 612.0 792.0
+--- Page 150 ---
+Page width/height: 612.0 792.0
+--- Page 151 ---
+Page width/height: 612.0 792.0
+--- Page 152 ---
+Page width/height: 612.0 792.0
+--- Page 153 ---
+Page width/height: 612.0 792.0
+--- Page 154 ---
+Page width/height: 612.0 792.0
+--- Page 155 ---
+Page width/height: 612.0 792.0
+--- Page 156 ---
+Page width/height: 612.0 792.0
+--- Page 157 ---
+Page width/height: 612.0 792.0
+--- Page 158 ---
+Page width/height: 612.0 792.0
+--- Page 159 ---
+Page width/height: 612.0 792.0
+--- Page 160 ---
+Page width/height: 612.0 792.0
+--- Page 161 ---
+Page width/height: 612.0 792.0
+--- Page 162 ---
+Page width/height: 612.0 792.0
+--- Page 163 ---
+Page width/height: 612.0 792.0
+--- Page 164 ---
+Page width/height: 612.0 792.0
+--- Page 165 ---
+Page width/height: 612.0 792.0
+--- Page 166 ---
+Page width/height: 612.0 792.0
+--- Page 167 ---
+Page width/height: 612.0 792.0
+--- Page 168 ---
+Page width/height: 612.0 792.0
+--- Page 169 ---
+Page width/height: 612.0 792.0
+--- Page 170 ---
+Page width/height: 612.0 792.0
+--- Page 171 ---
+Page width/height: 612.0 792.0
+--- Page 172 ---
+Page width/height: 612.0 792.0
+--- Page 173 ---
+Page width/height: 612.0 792.0
+--- Page 174 ---
+Page width/height: 612.0 792.0
+--- Page 175 ---
+Page width/height: 612.0 792.0
+--- Page 176 ---
+Page width/height: 612.0 792.0
+--- Page 177 ---
+Page width/height: 612.0 792.0
+--- Page 178 ---
+Page width/height: 612.0 792.0
+--- Page 179 ---
+Page width/height: 612.0 792.0
+--- Page 180 ---
+Page width/height: 612.0 792.0
+--- Page 181 ---
+Page width/height: 612.0 792.0
+--- Page 182 ---
+Page width/height: 612.0 792.0
+--- Page 183 ---
+Page width/height: 612.0 792.0
+--- Page 184 ---
+Page width/height: 612.0 792.0
+--- Page 185 ---
+Page width/height: 612.0 792.0
+--- Page 186 ---
+Page width/height: 612.0 792.0
+--- Page 187 ---
+Page width/height: 612.0 792.0
+--- Page 188 ---
+Page width/height: 612.0 792.0
+--- Page 189 ---
+Page width/height: 612.0 792.0
+--- Page 190 ---
+Page width/height: 612.0 792.0
+--- Page 191 ---
+Page width/height: 612.0 792.0
+--- Page 192 ---
+Page width/height: 612.0 792.0
+--- Page 193 ---
+Page width/height: 612.0 792.0
+--- Page 194 ---
+Page width/height: 612.0 792.0
+--- Page 195 ---
+Page width/height: 612.0 792.0
+--- Page 196 ---
+Page width/height: 612.0 792.0
+--- Page 197 ---
+Page width/height: 612.0 792.0
+--- Page 198 ---
+Page width/height: 612.0 792.0
+--- Page 199 ---
+Page width/height: 612.0 792.0
+--- Page 200 ---
+Page width/height: 612.0 792.0
+--- Page 201 ---
+Page width/height: 612.0 792.0
+--- Page 202 ---
+Page width/height: 612.0 792.0
+--- Page 203 ---
+Page width/height: 612.0 792.0
+--- Page 204 ---
+Page width/height: 612.0 792.0
+--- Page 205 ---
+Page width/height: 612.0 792.0
+--- Page 206 ---
+Page width/height: 612.0 792.0
+--- Page 207 ---
+Page width/height: 612.0 792.0
+--- Page 208 ---
+Page width/height: 612.0 792.0
+--- Page 209 ---
+Page width/height: 612.0 792.0
+--- Page 210 ---
+Page width/height: 612.0 792.0
+--- Page 211 ---
+Page width/height: 612.0 792.0
+--- Page 212 ---
+Page width/height: 612.0 792.0
+--- Page 213 ---
+Page width/height: 612.0 792.0
+--- Page 214 ---
+Page width/height: 612.0 792.0
+--- Page 215 ---
+Page width/height: 612.0 792.0
+--- Page 216 ---
+Page width/height: 612.0 792.0
+--- Page 217 ---
+Page width/height: 612.0 792.0
+--- Page 218 ---
+Page width/height: 612.0 792.0
+--- Page 219 ---
+Page width/height: 612.0 792.0
+--- Page 220 ---
+Page width/height: 612.0 792.0
+--- Page 221 ---
+Page width/height: 612.0 792.0
+--- Page 222 ---
+Page width/height: 612.0 792.0
+--- Page 223 ---
+Page width/height: 612.0 792.0
+--- Page 224 ---
+Page width/height: 612.0 792.0
+--- Page 225 ---
+Page width/height: 612.0 792.0
+--- Page 226 ---
+Page width/height: 612.0 792.0
+--- Page 227 ---
+Page width/height: 612.0 792.0
+--- Page 228 ---
+Page width/height: 612.0 792.0
+--- Page 229 ---
+Page width/height: 612.0 792.0
+--- Page 230 ---
+Page width/height: 612.0 792.0
+--- Page 231 ---
+Page width/height: 612.0 792.0
+--- Page 232 ---
+Page width/height: 612.0 792.0
+--- Page 233 ---
+Page width/height: 612.0 792.0
+--- Page 234 ---
+Page width/height: 612.0 792.0
+--- Page 235 ---
+Page width/height: 612.0 792.0
+--- Page 236 ---
+Page width/height: 612.0 792.0
+--- Page 237 ---
+Page width/height: 612.0 792.0
+--- Page 238 ---
+Page width/height: 612.0 792.0
+--- Page 239 ---
+Page width/height: 612.0 792.0
+--- Page 240 ---
+Page width/height: 612.0 792.0
+--- Page 241 ---
+Page width/height: 612.0 792.0
+--- Page 242 ---
+Page width/height: 612.0 792.0
+--- Page 243 ---
+Page width/height: 612.0 792.0
+--- Page 244 ---
+Page width/height: 612.0 792.0
+--- Page 245 ---
+Page width/height: 612.0 792.0
+--- Page 246 ---
+Page width/height: 612.0 792.0
+--- Page 247 ---
+Page width/height: 612.0 792.0
+--- Page 248 ---
+Page width/height: 612.0 792.0
+--- Page 249 ---
+Page width/height: 612.0 792.0
+--- Page 250 ---
+Page width/height: 612.0 792.0
+--- Page 251 ---
+Page width/height: 612.0 792.0
+--- Page 252 ---
+Page width/height: 612.0 792.0
+--- Page 253 ---
+Page width/height: 612.0 792.0
+--- Page 254 ---
+Page width/height: 612.0 792.0
+--- Page 255 ---
+Page width/height: 612.0 792.0
+--- Page 256 ---
+Page width/height: 612.0 792.0
+--- Page 257 ---
+Page width/height: 612.0 792.0
+--- Page 258 ---
+Page width/height: 612.0 792.0
+--- Page 259 ---
+Page width/height: 612.0 792.0
+--- Page 260 ---
+Page width/height: 612.0 792.0
+--- Page 261 ---
+Page width/height: 612.0 792.0
+--- Page 262 ---
+Page width/height: 612.0 792.0
+--- Page 263 ---
+Page width/height: 612.0 792.0
+--- Page 264 ---
+Page width/height: 612.0 792.0
+--- Page 265 ---
+Page width/height: 612.0 792.0
+--- Page 266 ---
+Page width/height: 612.0 792.0
+--- Page 267 ---
+Page width/height: 612.0 792.0
+--- Page 268 ---
+Page width/height: 612.0 792.0
+--- Page 269 ---
+Page width/height: 612.0 792.0
+--- Page 270 ---
+Page width/height: 612.0 792.0
+--- Page 271 ---
+Page width/height: 612.0 792.0
+--- Page 272 ---
+Page width/height: 612.0 792.0
+--- Page 273 ---
+Page width/height: 612.0 792.0
+--- Page 274 ---
+Page width/height: 612.0 792.0
+--- Page 275 ---
+Page width/height: 612.0 792.0
+--- Page 276 ---
+Page width/height: 612.0 792.0
+--- Page 277 ---
+Page width/height: 612.0 792.0
+--- Page 278 ---
+Page width/height: 612.0 792.0
+--- Page 279 ---
+Page width/height: 612.0 792.0
+--- Page 280 ---
+Page width/height: 612.0 792.0
+--- Page 281 ---
+Page width/height: 612.0 792.0
+--- Page 282 ---
+Page width/height: 612.0 792.0
+--- Page 283 ---
+Page width/height: 612.0 792.0
+--- Page 284 ---
+Page width/height: 612.0 792.0
+--- Page 285 ---
+Page width/height: 612.0 792.0
+--- Page 286 ---
+Page width/height: 612.0 792.0
+--- Page 287 ---
+Page width/height: 612.0 792.0
+--- Page 288 ---
+Page width/height: 612.0 792.0
+--- Page 289 ---
+Page width/height: 612.0 792.0
+--- Page 290 ---
+Page width/height: 612.0 792.0
+--- Page 291 ---
+Page width/height: 612.0 792.0
+--- Page 292 ---
+Page width/height: 612.0 792.0
+--- Page 293 ---
+Page width/height: 612.0 792.0
+--- Page 294 ---
+Page width/height: 612.0 792.0
+--- Page 295 ---
+Page width/height: 612.0 792.0
+--- Page 296 ---
+Page width/height: 612.0 792.0
+--- Page 297 ---
+Page width/height: 612.0 792.0
+--- Page 298 ---
+Page width/height: 612.0 792.0
+--- Page 299 ---
+Page width/height: 612.0 792.0
+--- Page 300 ---
+Page width/height: 612.0 792.0
+--- Page 301 ---
+Page width/height: 612.0 792.0
+--- Page 302 ---
+Page width/height: 612.0 792.0
+--- Page 303 ---
+Page width/height: 612.0 792.0
+--- Page 304 ---
+Page width/height: 612.0 792.0
+--- Page 305 ---
+Page width/height: 612.0 792.0
+--- Page 306 ---
+Page width/height: 612.0 792.0
+--- Page 307 ---
+Page width/height: 612.0 792.0
+--- Page 308 ---
+Page width/height: 612.0 792.0
+--- Page 309 ---
+Page width/height: 612.0 792.0
+--- Page 310 ---
+Page width/height: 612.0 792.0
+--- Page 311 ---
+Page width/height: 612.0 792.0
+--- Page 312 ---
+Page width/height: 612.0 792.0
+--- Page 313 ---
+Page width/height: 612.0 792.0
+--- Page 314 ---
+Page width/height: 612.0 792.0
+--- Page 315 ---
+Page width/height: 612.0 792.0
+--- Page 316 ---
+Page width/height: 612.0 792.0
+--- Page 317 ---
+Page width/height: 612.0 792.0
+--- Page 318 ---
+Page width/height: 612.0 792.0
+--- Page 319 ---
+Page width/height: 612.0 792.0
+--- Page 320 ---
+Page width/height: 612.0 792.0
+--- Page 321 ---
+Page width/height: 612.0 792.0
+--- Page 322 ---
+Page width/height: 612.0 792.0
+--- Page 323 ---
+Page width/height: 612.0 792.0
+--- Page 324 ---
+Page width/height: 612.0 792.0
+--- Page 325 ---
+Page width/height: 612.0 792.0
+--- Page 326 ---
+Page width/height: 612.0 792.0
+--- Page 327 ---
+Page width/height: 612.0 792.0
+--- Page 328 ---
+Page width/height: 612.0 792.0
+--- Page 329 ---
+Page width/height: 612.0 792.0
+--- Page 330 ---
+Page width/height: 612.0 792.0
+--- Page 331 ---
+Page width/height: 612.0 792.0
+--- Page 332 ---
+Page width/height: 612.0 792.0
+--- Page 333 ---
+Page width/height: 612.0 792.0
+--- Page 334 ---
+Page width/height: 612.0 792.0
+--- Page 335 ---
+Page width/height: 612.0 792.0
+--- Page 336 ---
+Page width/height: 612.0 792.0
+--- Page 337 ---
+Page width/height: 612.0 792.0
+--- Page 338 ---
+Page width/height: 612.0 792.0
+--- Page 339 ---
+Page width/height: 612.0 792.0
+--- Page 340 ---
+Page width/height: 612.0 792.0
+--- Page 341 ---
+Page width/height: 612.0 792.0
+--- Page 342 ---
+Page width/height: 612.0 792.0
+--- Page 343 ---
+Page width/height: 612.0 792.0
+--- Page 344 ---
+Page width/height: 612.0 792.0
+--- Page 345 ---
+Page width/height: 612.0 792.0
+--- Page 346 ---
+Page width/height: 612.0 792.0
+--- Page 347 ---
+Page width/height: 612.0 792.0
+--- Page 348 ---
+Page width/height: 612.0 792.0
+--- Page 349 ---
+Page width/height: 612.0 792.0
+--- Page 350 ---
+Page width/height: 612.0 792.0
+--- Page 351 ---
+Page width/height: 612.0 792.0
+--- Page 352 ---
+Page width/height: 612.0 792.0
+--- Page 353 ---
+Page width/height: 612.0 792.0
+--- Page 354 ---
+Page width/height: 612.0 792.0
+--- Page 355 ---
+Page width/height: 612.0 792.0
+--- Page 356 ---
+Page width/height: 612.0 792.0
+--- Page 357 ---
+Page width/height: 612.0 792.0
+--- Page 358 ---
+Page width/height: 612.0 792.0
+--- Page 359 ---
+Page width/height: 612.0 792.0
+--- Page 360 ---
+Page width/height: 612.0 792.0
+--- Page 361 ---
+Page width/height: 612.0 792.0
+--- Page 362 ---
+Page width/height: 612.0 792.0
+--- Page 363 ---
+Page width/height: 612.0 792.0
+--- Page 364 ---
+Page width/height: 612.0 792.0
+--- Page 365 ---
+Page width/height: 612.0 792.0
+--- Page 366 ---
+Page width/height: 612.0 792.0
+--- Page 367 ---
+Page width/height: 612.0 792.0
+--- Page 368 ---
+Page width/height: 612.0 792.0
+--- Page 369 ---
+Page width/height: 612.0 792.0
+--- Page 370 ---
+Page width/height: 612.0 792.0
+--- Page 371 ---
+Page width/height: 612.0 792.0
+--- Page 372 ---
+Page width/height: 612.0 792.0
+--- Page 373 ---
+Page width/height: 612.0 792.0
+--- Page 374 ---
+Page width/height: 612.0 792.0
+--- Page 375 ---
+Page width/height: 612.0 792.0
+--- Page 376 ---
+Page width/height: 612.0 792.0
+--- Page 377 ---
+Page width/height: 612.0 792.0
+--- Page 378 ---
+Page width/height: 612.0 792.0
+--- Page 379 ---
+Page width/height: 612.0 792.0
+--- Page 380 ---
+Page width/height: 612.0 792.0
+--- Page 381 ---
+Page width/height: 612.0 792.0
+--- Page 382 ---
+Page width/height: 612.0 792.0
+--- Page 383 ---
+Page width/height: 612.0 792.0
+--- Page 384 ---
+Page width/height: 612.0 792.0
+--- Page 385 ---
+Page width/height: 612.0 792.0
+--- Page 386 ---
+Page width/height: 612.0 792.0
+--- Page 387 ---
+Page width/height: 612.0 792.0
+--- Page 388 ---
+Page width/height: 612.0 792.0
+--- Page 389 ---
+Page width/height: 612.0 792.0
+--- Page 390 ---
+Page width/height: 612.0 792.0
+--- Page 391 ---
+Page width/height: 612.0 792.0
+--- Page 392 ---
+Page width/height: 612.0 792.0
+--- Page 393 ---
+Page width/height: 612.0 792.0
+--- Page 394 ---
+Page width/height: 612.0 792.0
+--- Page 395 ---
+Page width/height: 612.0 792.0
+--- Page 396 ---
+Page width/height: 612.0 792.0
+--- Page 397 ---
+Page width/height: 612.0 792.0
+--- Page 398 ---
+Page width/height: 612.0 792.0
+--- Page 399 ---
+Page width/height: 612.0 792.0
+--- Page 400 ---
+Page width/height: 612.0 792.0
+--- Page 401 ---
+Page width/height: 612.0 792.0
+--- Page 402 ---
+Page width/height: 612.0 792.0
+--- Page 403 ---
+Page width/height: 612.0 792.0
+--- Page 404 ---
+Page width/height: 612.0 792.0
+--- Page 405 ---
+Page width/height: 612.0 792.0
+--- Page 406 ---
+Page width/height: 612.0 792.0
+--- Page 407 ---
+Page width/height: 612.0 792.0
+--- Page 408 ---
+Page width/height: 612.0 792.0
+--- Page 409 ---
+Page width/height: 612.0 792.0
+--- Page 410 ---
+Page width/height: 612.0 792.0
+--- Page 411 ---
+Page width/height: 612.0 792.0
+--- Page 412 ---
+Page width/height: 612.0 792.0
+--- Page 413 ---
+Page width/height: 612.0 792.0
+--- Page 414 ---
+Page width/height: 612.0 792.0
+--- Page 415 ---
+Page width/height: 612.0 792.0
+--- Page 416 ---
+Page width/height: 612.0 792.0
+--- Page 417 ---
+Page width/height: 612.0 792.0
+--- Page 418 ---
+Page width/height: 612.0 792.0
+--- Page 419 ---
+Page width/height: 612.0 792.0
+--- Page 420 ---
+Page width/height: 612.0 792.0
+--- Page 421 ---
+Page width/height: 612.0 792.0
+--- Page 422 ---
+Page width/height: 612.0 792.0
+--- Page 423 ---
+Page width/height: 612.0 792.0
+--- Page 424 ---
+Page width/height: 612.0 792.0
+--- Page 425 ---
+Page width/height: 612.0 792.0
+--- Page 426 ---
+Page width/height: 612.0 792.0
+--- Page 427 ---
+Page width/height: 612.0 792.0
+--- Page 428 ---
+Page width/height: 612.0 792.0
+--- Page 429 ---
+Page width/height: 612.0 792.0
+--- Page 430 ---
+Page width/height: 612.0 792.0
+--- Page 431 ---
+Page width/height: 612.0 792.0
+--- Page 432 ---
+Page width/height: 612.0 792.0
+--- Page 433 ---
+Page width/height: 612.0 792.0
+--- Page 434 ---
+Page width/height: 612.0 792.0
+--- Page 435 ---
+Page width/height: 612.0 792.0
+--- Page 436 ---
+Page width/height: 612.0 792.0
+--- Page 437 ---
+Page width/height: 612.0 792.0
+--- Page 438 ---
+Page width/height: 612.0 792.0
+--- Page 439 ---
+Page width/height: 612.0 792.0
+--- Page 440 ---
+Page width/height: 612.0 792.0
+--- Page 441 ---
+Page width/height: 612.0 792.0
+--- Page 442 ---
+Page width/height: 612.0 792.0
+--- Page 443 ---
+Page width/height: 612.0 792.0
+--- Page 444 ---
+Page width/height: 612.0 792.0
+--- Page 445 ---
+Page width/height: 612.0 792.0
+--- Page 446 ---
+Page width/height: 612.0 792.0
+--- Page 447 ---
+Page width/height: 612.0 792.0
+--- Page 448 ---
+Page width/height: 612.0 792.0
+--- Page 449 ---
+Page width/height: 612.0 792.0
+--- Page 450 ---
+Page width/height: 612.0 792.0
+--- Page 451 ---
+Page width/height: 612.0 792.0
+--- Page 452 ---
+Page width/height: 612.0 792.0
+--- Page 453 ---
+Page width/height: 612.0 792.0
+--- Page 454 ---
+Page width/height: 612.0 792.0
+--- Page 455 ---
+Page width/height: 612.0 792.0
+--- Page 456 ---
+Page width/height: 612.0 792.0
+--- Page 457 ---
+Page width/height: 612.0 792.0
+--- Page 458 ---
+Page width/height: 612.0 792.0
+--- Page 459 ---
+Page width/height: 612.0 792.0
+--- Page 460 ---
+Page width/height: 612.0 792.0
+--- Page 461 ---
+Page width/height: 612.0 792.0
+--- Page 462 ---
+Page width/height: 612.0 792.0
+--- Page 463 ---
+Page width/height: 612.0 792.0
+--- Page 464 ---
+Page width/height: 612.0 792.0
+--- Page 465 ---
+Page width/height: 612.0 792.0
+--- Page 466 ---
+Page width/height: 612.0 792.0
+--- Page 467 ---
+Page width/height: 612.0 792.0
+--- Page 468 ---
+Page width/height: 612.0 792.0
+--- Page 469 ---
+Page width/height: 612.0 792.0
+--- Page 470 ---
+Page width/height: 612.0 792.0
+--- Page 471 ---
+Page width/height: 612.0 792.0
+--- Page 472 ---
+Page width/height: 612.0 792.0
+--- Page 473 ---
+Page width/height: 612.0 792.0
+--- Page 474 ---
+Page width/height: 612.0 792.0
+--- Page 475 ---
+Page width/height: 612.0 792.0
+--- Page 476 ---
+Page width/height: 612.0 792.0
+--- Page 477 ---
+Page width/height: 612.0 792.0
+--- Page 478 ---
+Page width/height: 612.0 792.0
+--- Page 479 ---
+Page width/height: 612.0 792.0
+--- Page 480 ---
+Page width/height: 612.0 792.0
+--- Page 481 ---
+Page width/height: 612.0 792.0
+--- Page 482 ---
+Page width/height: 612.0 792.0
+--- Page 483 ---
+Page width/height: 612.0 792.0
+--- Page 484 ---
+Page width/height: 612.0 792.0
+--- Page 485 ---
+Page width/height: 612.0 792.0
+--- Page 486 ---
+Page width/height: 612.0 792.0
+--- Page 487 ---
+Page width/height: 612.0 792.0
+--- Page 488 ---
+Page width/height: 612.0 792.0
+--- Page 489 ---
+Page width/height: 612.0 792.0
+--- Page 490 ---
+Page width/height: 612.0 792.0
+--- Page 491 ---
+Page width/height: 612.0 792.0
+--- Page 492 ---
+Page width/height: 612.0 792.0
+--- Page 493 ---
+Page width/height: 612.0 792.0
+--- Page 494 ---
+Page width/height: 612.0 792.0
+--- Page 495 ---
+Page width/height: 612.0 792.0
+--- Page 496 ---
+Page width/height: 612.0 792.0
+--- Page 497 ---
+Page width/height: 612.0 792.0
+--- Page 498 ---
+Page width/height: 612.0 792.0
+--- Page 499 ---
+Page width/height: 612.0 792.0
+--- Page 500 ---
+Page width/height: 612.0 792.0
+--- Page 501 ---
+Page width/height: 612.0 792.0
+--- Page 502 ---
+Page width/height: 612.0 792.0
+--- Page 503 ---
+Page width/height: 612.0 792.0
+--- Page 504 ---
+Page width/height: 612.0 792.0
+--- Page 505 ---
+Page width/height: 612.0 792.0
+--- Page 506 ---
+Page width/height: 612.0 792.0
+--- Page 507 ---
+Page width/height: 612.0 792.0
+--- Page 508 ---
+Page width/height: 612.0 792.0
+--- Page 509 ---
+Page width/height: 612.0 792.0
+--- Page 510 ---
+Page width/height: 612.0 792.0
+--- Page 511 ---
+Page width/height: 612.0 792.0
+--- Page 512 ---
+Page width/height: 612.0 792.0
+--- Page 513 ---
+Page width/height: 612.0 792.0
+--- Page 514 ---
+Page width/height: 612.0 792.0
+--- Page 515 ---
+Page width/height: 612.0 792.0
+--- Page 516 ---
+Page width/height: 612.0 792.0
+--- Page 517 ---
+Page width/height: 612.0 792.0
+--- Page 518 ---
+Page width/height: 612.0 792.0
+--- Page 519 ---
+Page width/height: 612.0 792.0
+--- Page 520 ---
+Page width/height: 612.0 792.0
+--- Page 521 ---
+Page width/height: 612.0 792.0
+--- Page 522 ---
+Page width/height: 612.0 792.0
+--- Page 523 ---
+Page width/height: 612.0 792.0
+--- Page 524 ---
+Page width/height: 612.0 792.0
+--- Page 525 ---
+Page width/height: 612.0 792.0
+--- Page 526 ---
+Page width/height: 612.0 792.0
+--- Page 527 ---
+Page width/height: 612.0 792.0
+--- Page 528 ---
+Page width/height: 612.0 792.0
+--- Page 529 ---
+Page width/height: 612.0 792.0
+--- Page 530 ---
+Page width/height: 612.0 792.0
+--- Page 531 ---
+Page width/height: 612.0 792.0
+--- Page 532 ---
+Page width/height: 612.0 792.0
+--- Page 533 ---
+Page width/height: 612.0 792.0
+--- Page 534 ---
+Page width/height: 612.0 792.0
+--- Page 535 ---
+Page width/height: 612.0 792.0
+--- Page 536 ---
+Page width/height: 612.0 792.0
+--- Page 537 ---
+Page width/height: 612.0 792.0
+--- Page 538 ---
+Page width/height: 612.0 792.0
+--- Page 539 ---
+Page width/height: 612.0 792.0
+--- Page 540 ---
+Page width/height: 612.0 792.0
+--- Page 541 ---
+Page width/height: 612.0 792.0
+--- Page 542 ---
+Page width/height: 612.0 792.0
+--- Page 543 ---
+Page width/height: 612.0 792.0
+--- Page 544 ---
+Page width/height: 612.0 792.0
+--- Page 545 ---
+Page width/height: 612.0 792.0
+--- Page 546 ---
+Page width/height: 612.0 792.0
+--- Page 547 ---
+Page width/height: 612.0 792.0
+--- Page 548 ---
+Page width/height: 612.0 792.0
+--- Page 549 ---
+Page width/height: 612.0 792.0
+--- Page 550 ---
+Page width/height: 612.0 792.0
+--- Page 551 ---
+Page width/height: 612.0 792.0
+--- Page 552 ---
+Page width/height: 612.0 792.0
+--- Page 553 ---
+Page width/height: 612.0 792.0
+--- Page 554 ---
+Page width/height: 612.0 792.0
+--- Page 555 ---
+Page width/height: 612.0 792.0
+--- Page 556 ---
+Page width/height: 612.0 792.0
+--- Page 557 ---
+Page width/height: 612.0 792.0
+--- Page 558 ---
+Page width/height: 612.0 792.0
+--- Page 559 ---
+Page width/height: 612.0 792.0
+--- Page 560 ---
+Page width/height: 612.0 792.0
+--- Page 561 ---
+Page width/height: 612.0 792.0
+--- Page 562 ---
+Page width/height: 612.0 792.0
+--- Page 563 ---
+Page width/height: 612.0 792.0
+--- Page 564 ---
+Page width/height: 612.0 792.0
+--- Page 565 ---
+Page width/height: 612.0 792.0
+--- Page 566 ---
+Page width/height: 612.0 792.0
+--- Page 567 ---
+Page width/height: 612.0 792.0
+--- Page 568 ---
+Page width/height: 612.0 792.0
+--- Page 569 ---
+Page width/height: 612.0 792.0
+--- Page 570 ---
+Page width/height: 612.0 792.0
+--- Page 571 ---
+Page width/height: 612.0 792.0
+--- Page 572 ---
+Page width/height: 612.0 792.0
+--- Page 573 ---
+Page width/height: 612.0 792.0
+--- Page 574 ---
+Page width/height: 612.0 792.0
+--- Page 575 ---
+Page width/height: 612.0 792.0
+--- Page 576 ---
+Page width/height: 612.0 792.0
+--- Page 577 ---
+Page width/height: 612.0 792.0
+--- Page 578 ---
+Page width/height: 612.0 792.0
+--- Page 579 ---
+Page width/height: 612.0 792.0
+--- Page 580 ---
+Page width/height: 612.0 792.0
+--- Page 581 ---
+Page width/height: 612.0 792.0
+--- Page 582 ---
+Page width/height: 612.0 792.0
+--- Page 583 ---
+Page width/height: 612.0 792.0
+--- Page 584 ---
+Page width/height: 612.0 792.0
+--- Page 585 ---
+Page width/height: 612.0 792.0
+--- Page 586 ---
+Page width/height: 612.0 792.0
+--- Page 587 ---
+Page width/height: 612.0 792.0
+--- Page 588 ---
+Page width/height: 612.0 792.0
+--- Page 589 ---
+Page width/height: 612.0 792.0
+--- Page 590 ---
+Page width/height: 612.0 792.0
+--- Page 591 ---
+Page width/height: 612.0 792.0
+--- Page 592 ---
+Page width/height: 612.0 792.0
+--- Page 593 ---
+Page width/height: 612.0 792.0
+--- Page 594 ---
+Page width/height: 612.0 792.0
+--- Page 595 ---
+Page width/height: 612.0 792.0
+--- Page 596 ---
+Page width/height: 612.0 792.0
+--- Page 597 ---
+Page width/height: 612.0 792.0
+--- Page 598 ---
+Page width/height: 612.0 792.0
+--- Page 599 ---
+Page width/height: 612.0 792.0
+--- Page 600 ---
+Page width/height: 612.0 792.0
+--- Page 601 ---
+Page width/height: 612.0 792.0
+--- Page 602 ---
+Page width/height: 612.0 792.0
+--- Page 603 ---
+Page width/height: 612.0 792.0
+--- Page 604 ---
+Page width/height: 612.0 792.0
+--- Page 605 ---
+Page width/height: 612.0 792.0
+--- Page 606 ---
+Page width/height: 612.0 792.0
+--- Page 607 ---
+Page width/height: 612.0 792.0
+--- Page 608 ---
+Page width/height: 612.0 792.0
+--- Page 609 ---
+Page width/height: 612.0 792.0
+--- Page 610 ---
+Page width/height: 612.0 792.0
+--- Page 611 ---
+Page width/height: 612.0 792.0
+--- Page 612 ---
+Page width/height: 612.0 792.0
+--- Page 613 ---
+Page width/height: 612.0 792.0
+--- Page 614 ---
+Page width/height: 612.0 792.0
+--- Page 615 ---
+Page width/height: 612.0 792.0
+--- Page 616 ---
+Page width/height: 612.0 792.0
+--- Page 617 ---
+Page width/height: 612.0 792.0
+--- Page 618 ---
+Page width/height: 612.0 792.0
+--- Page 619 ---
+Page width/height: 612.0 792.0
+--- Page 620 ---
+Page width/height: 612.0 792.0
+--- Page 621 ---
+Page width/height: 612.0 792.0
+--- Page 622 ---
+Page width/height: 612.0 792.0
+--- Page 623 ---
+Page width/height: 612.0 792.0
+--- Page 624 ---
+Page width/height: 612.0 792.0
+--- Page 625 ---
+Page width/height: 612.0 792.0
+--- Page 626 ---
+Page width/height: 612.0 792.0
+--- Page 627 ---
+Page width/height: 612.0 792.0
+--- Page 628 ---
+Page width/height: 612.0 792.0
+--- Page 629 ---
+Page width/height: 612.0 792.0
+--- Page 630 ---
+Page width/height: 612.0 792.0
+--- Page 631 ---
+Page width/height: 612.0 792.0
+--- Page 632 ---
+Page width/height: 612.0 792.0
+--- Page 633 ---
+Page width/height: 612.0 792.0
+--- Page 634 ---
+Page width/height: 612.0 792.0
+--- Page 635 ---
+Page width/height: 612.0 792.0
+--- Page 636 ---
+Page width/height: 612.0 792.0
+--- Page 637 ---
+Page width/height: 612.0 792.0
+--- Page 638 ---
+Page width/height: 612.0 792.0
+--- Page 639 ---
+Page width/height: 612.0 792.0
+--- Page 640 ---
+Page width/height: 612.0 792.0
+--- Page 641 ---
+Page width/height: 612.0 792.0
+--- Page 642 ---
+Page width/height: 612.0 792.0
+--- Page 643 ---
+Page width/height: 612.0 792.0
+--- Page 644 ---
+Page width/height: 612.0 792.0
+--- Page 645 ---
+Page width/height: 612.0 792.0
+--- Page 646 ---
+Page width/height: 612.0 792.0
+--- Page 647 ---
+Page width/height: 612.0 792.0
+--- Page 648 ---
+Page width/height: 612.0 792.0
+--- Page 649 ---
+Page width/height: 612.0 792.0
+--- Page 650 ---
+Page width/height: 612.0 792.0
+--- Page 651 ---
+Page width/height: 612.0 792.0
+--- Page 652 ---
+Page width/height: 612.0 792.0
+--- Page 653 ---
+Page width/height: 612.0 792.0
+--- Page 654 ---
+Page width/height: 612.0 792.0
+--- Page 655 ---
+Page width/height: 612.0 792.0
+--- Page 656 ---
+Page width/height: 612.0 792.0
+--- Page 657 ---
+Page width/height: 612.0 792.0
+--- Page 658 ---
+Page width/height: 612.0 792.0
+--- Page 659 ---
+Page width/height: 612.0 792.0
+--- Page 660 ---
+Page width/height: 612.0 792.0
+--- Page 661 ---
+Page width/height: 612.0 792.0
+--- Page 662 ---
+Page width/height: 612.0 792.0
+--- Page 663 ---
+Page width/height: 612.0 792.0
+--- Page 664 ---
+Page width/height: 612.0 792.0
+--- Page 665 ---
+Page width/height: 612.0 792.0
+--- Page 666 ---
+Page width/height: 612.0 792.0
+--- Page 667 ---
+Page width/height: 612.0 792.0
+--- Page 668 ---
+Page width/height: 612.0 792.0
+--- Page 669 ---
+Page width/height: 612.0 792.0
+--- Page 670 ---
+Page width/height: 612.0 792.0
+--- Page 671 ---
+Page width/height: 612.0 792.0
+--- Page 672 ---
+Page width/height: 612.0 792.0
+--- Page 673 ---
+Page width/height: 612.0 792.0
+--- Page 674 ---
+Page width/height: 612.0 792.0
+--- Page 675 ---
+Page width/height: 612.0 792.0
+--- Page 676 ---
+Page width/height: 612.0 792.0
+--- Page 677 ---
+Page width/height: 612.0 792.0
+--- Page 678 ---
+Page width/height: 612.0 792.0
+--- Page 679 ---
+Page width/height: 612.0 792.0
+--- Page 680 ---
+Page width/height: 612.0 792.0
+--- Page 681 ---
+Page width/height: 612.0 792.0
+--- Page 682 ---
+Page width/height: 612.0 792.0
+--- Page 683 ---
+Page width/height: 612.0 792.0
+--- Page 684 ---
+Page width/height: 612.0 792.0
+--- Page 685 ---
+Page width/height: 612.0 792.0
+--- Page 686 ---
+Page width/height: 612.0 792.0
+--- Page 687 ---
+Page width/height: 612.0 792.0
+--- Page 688 ---
+Page width/height: 612.0 792.0
+--- Page 689 ---
+Page width/height: 612.0 792.0
+--- Page 690 ---
+Page width/height: 612.0 792.0
+--- Page 691 ---
+Page width/height: 612.0 792.0
+--- Page 692 ---
+Page width/height: 612.0 792.0
+--- Page 693 ---
+Page width/height: 612.0 792.0
+--- Page 694 ---
+Page width/height: 612.0 792.0
+--- Page 695 ---
+Page width/height: 612.0 792.0
+--- Page 696 ---
+Page width/height: 612.0 792.0
+--- Page 697 ---
+Page width/height: 612.0 792.0
+--- Page 698 ---
+Page width/height: 612.0 792.0
+--- Page 699 ---
+Page width/height: 612.0 792.0
+--- Page 700 ---
+Page width/height: 612.0 792.0
+--- Page 701 ---
+Page width/height: 612.0 792.0
+--- Page 702 ---
+Page width/height: 612.0 792.0
+--- Page 703 ---
+Page width/height: 612.0 792.0
+--- Page 704 ---
+Page width/height: 612.0 792.0
+--- Page 705 ---
+Page width/height: 612.0 792.0
+--- Page 706 ---
+Page width/height: 612.0 792.0
+--- Page 707 ---
+Page width/height: 612.0 792.0
+--- Page 708 ---
+Page width/height: 612.0 792.0
+--- Page 709 ---
+Page width/height: 612.0 792.0
+--- Page 710 ---
+Page width/height: 612.0 792.0
+--- Page 711 ---
+Page width/height: 612.0 792.0
+--- Page 712 ---
+Page width/height: 612.0 792.0
+--- Page 713 ---
+Page width/height: 612.0 792.0
+--- Page 714 ---
+Page width/height: 612.0 792.0
+--- Page 715 ---
+Page width/height: 612.0 792.0
+--- Page 716 ---
+Page width/height: 612.0 792.0
+--- Page 717 ---
+Page width/height: 612.0 792.0
+--- Page 718 ---
+Page width/height: 612.0 792.0
+--- Page 719 ---
+Page width/height: 612.0 792.0
+--- Page 720 ---
+Page width/height: 612.0 792.0
+--- Page 721 ---
+Page width/height: 612.0 792.0
+--- Page 722 ---
+Page width/height: 612.0 792.0
+--- Page 723 ---
+Page width/height: 612.0 792.0
+--- Page 724 ---
+Page width/height: 612.0 792.0
+--- Page 725 ---
+Page width/height: 612.0 792.0
+--- Page 726 ---
+Page width/height: 612.0 792.0
+--- Page 727 ---
+Page width/height: 612.0 792.0
+--- Page 728 ---
+Page width/height: 612.0 792.0
+--- Page 729 ---
+Page width/height: 612.0 792.0
+--- Page 730 ---
+Page width/height: 612.0 792.0
+--- Page 731 ---
+Page width/height: 612.0 792.0
+--- Page 732 ---
+Page width/height: 612.0 792.0
+--- Page 733 ---
+Page width/height: 612.0 792.0
+--- Page 734 ---
+Page width/height: 612.0 792.0
+--- Page 735 ---
+Page width/height: 612.0 792.0
+--- Page 736 ---
+Page width/height: 612.0 792.0
+--- Page 737 ---
+Page width/height: 612.0 792.0
+--- Page 738 ---
+Page width/height: 612.0 792.0
+--- Page 739 ---
+Page width/height: 612.0 792.0
+--- Page 740 ---
+Page width/height: 612.0 792.0
+--- Page 741 ---
+Page width/height: 612.0 792.0
+--- Page 742 ---
+Page width/height: 612.0 792.0
+--- Page 743 ---
+Page width/height: 612.0 792.0
+--- Page 744 ---
+Page width/height: 612.0 792.0
+--- Page 745 ---
+Page width/height: 612.0 792.0
+--- Page 746 ---
+Page width/height: 612.0 792.0
+--- Page 747 ---
+Page width/height: 612.0 792.0
+--- Page 748 ---
+Page width/height: 612.0 792.0
+--- Page 749 ---
+Page width/height: 612.0 792.0
+--- Page 750 ---
+Page width/height: 612.0 792.0
+--- Page 751 ---
+Page width/height: 612.0 792.0
+--- Page 752 ---
+Page width/height: 612.0 792.0
+--- Page 753 ---
+Page width/height: 612.0 792.0
+--- Page 754 ---
+Page width/height: 612.0 792.0
+--- Page 755 ---
+Page width/height: 612.0 792.0
+--- Page 756 ---
+Page width/height: 612.0 792.0
+--- Page 757 ---
+Page width/height: 612.0 792.0
+--- Page 758 ---
+Page width/height: 612.0 792.0
+--- Page 759 ---
+Page width/height: 612.0 792.0
+--- Page 760 ---
+Page width/height: 612.0 792.0
+--- Page 761 ---
+Page width/height: 612.0 792.0
+--- Page 762 ---
+Page width/height: 612.0 792.0
+--- Page 763 ---
+Page width/height: 612.0 792.0
+--- Page 764 ---
+Page width/height: 612.0 792.0
+--- Page 765 ---
+Page width/height: 612.0 792.0
+--- Page 766 ---
+Page width/height: 612.0 792.0
+--- Page 767 ---
+Page width/height: 612.0 792.0
+--- Page 768 ---
+Page width/height: 612.0 792.0
+--- Page 769 ---
+Page width/height: 612.0 792.0
+--- Page 770 ---
+Page width/height: 612.0 792.0
+--- Page 771 ---
+Page width/height: 612.0 792.0
+--- Page 772 ---
+Page width/height: 612.0 792.0
+--- Page 773 ---
+Page width/height: 612.0 792.0
+--- Page 774 ---
+Page width/height: 612.0 792.0
+--- Page 775 ---
+Page width/height: 612.0 792.0
+--- Page 776 ---
+Page width/height: 612.0 792.0
+--- Page 777 ---
+Page width/height: 612.0 792.0
+--- Page 778 ---
+Page width/height: 612.0 792.0
+--- Page 779 ---
+Page width/height: 612.0 792.0
+--- Page 780 ---
+Page width/height: 612.0 792.0
+--- Page 781 ---
+Page width/height: 612.0 792.0
+--- Page 782 ---
+Page width/height: 612.0 792.0
+--- Page 783 ---
+Page width/height: 612.0 792.0
+--- Page 784 ---
+Page width/height: 612.0 792.0
+--- Page 785 ---
+Page width/height: 612.0 792.0
+--- Page 786 ---
+Page width/height: 612.0 792.0
+--- Page 787 ---
+Page width/height: 612.0 792.0
+--- Page 788 ---
+Page width/height: 612.0 792.0
+--- Page 789 ---
+Page width/height: 612.0 792.0
+--- Page 790 ---
+Page width/height: 612.0 792.0
+--- Page 791 ---
+Page width/height: 612.0 792.0
+--- Page 792 ---
+Page width/height: 612.0 792.0
+--- Page 793 ---
+Page width/height: 612.0 792.0
+--- Page 794 ---
+Page width/height: 612.0 792.0
+--- Page 795 ---
+Page width/height: 612.0 792.0
+--- Page 796 ---
+Page width/height: 612.0 792.0
+--- Page 797 ---
+Page width/height: 612.0 792.0
+--- Page 798 ---
+Page width/height: 612.0 792.0
+--- Page 799 ---
+Page width/height: 612.0 792.0
+--- Page 800 ---
+Page width/height: 612.0 792.0
+--- Page 801 ---
+Page width/height: 612.0 792.0
+--- Page 802 ---
+Page width/height: 612.0 792.0
+--- Page 803 ---
+Page width/height: 612.0 792.0
+--- Page 804 ---
+Page width/height: 612.0 792.0
+--- Page 805 ---
+Page width/height: 612.0 792.0
+--- Page 806 ---
+Page width/height: 612.0 792.0
+--- Page 807 ---
+Page width/height: 612.0 792.0
+--- Page 808 ---
+Page width/height: 612.0 792.0
+--- Page 809 ---
+Page width/height: 612.0 792.0
+--- Page 810 ---
+Page width/height: 612.0 792.0
+--- Page 811 ---
+Page width/height: 612.0 792.0
+--- Page 812 ---
+Page width/height: 612.0 792.0
+--- Page 813 ---
+Page width/height: 612.0 792.0
+--- Page 814 ---
+Page width/height: 612.0 792.0
+--- Page 815 ---
+Page width/height: 612.0 792.0
+--- Page 816 ---
+Page width/height: 612.0 792.0
+--- Page 817 ---
+Page width/height: 612.0 792.0
+--- Page 818 ---
+Page width/height: 612.0 792.0
+--- Page 819 ---
+Page width/height: 612.0 792.0
+--- Page 820 ---
+Page width/height: 612.0 792.0
+--- Page 821 ---
+Page width/height: 612.0 792.0
+--- Page 822 ---
+Page width/height: 612.0 792.0
+--- Page 823 ---
+Page width/height: 612.0 792.0
+--- Page 824 ---
+Page width/height: 612.0 792.0
+--- Page 825 ---
+Page width/height: 612.0 792.0
+--- Page 826 ---
+Page width/height: 612.0 792.0
+--- Page 827 ---
+Page width/height: 612.0 792.0
+--- Page 828 ---
+Page width/height: 612.0 792.0
+--- Page 829 ---
+Page width/height: 612.0 792.0
+--- Page 830 ---
+Page width/height: 612.0 792.0
+--- Page 831 ---
+Page width/height: 612.0 792.0
+--- Page 832 ---
+Page width/height: 612.0 792.0
+--- Page 833 ---
+Page width/height: 612.0 792.0
+--- Page 834 ---
+Page width/height: 612.0 792.0
+--- Page 835 ---
+Page width/height: 612.0 792.0
+--- Page 836 ---
+Page width/height: 612.0 792.0
+--- Page 837 ---
+Page width/height: 612.0 792.0
+--- Page 838 ---
+Page width/height: 612.0 792.0
+--- Page 839 ---
+Page width/height: 612.0 792.0
+--- Page 840 ---
+Page width/height: 612.0 792.0
+--- Page 841 ---
+Page width/height: 612.0 792.0
+--- Page 842 ---
+Page width/height: 612.0 792.0
+--- Page 843 ---
+Page width/height: 612.0 792.0
+--- Page 844 ---
+Page width/height: 612.0 792.0
+--- Page 845 ---
+Page width/height: 612.0 792.0
+--- Page 846 ---
+Page width/height: 612.0 792.0
+--- Page 847 ---
+Page width/height: 612.0 792.0
+--- Page 848 ---
+Page width/height: 612.0 792.0
+--- Page 849 ---
+Page width/height: 612.0 792.0
+OCR in image on page 1 : sores, 112m
+S Oo
+
+@ New chat
+Q Search chats
+
+@ Library
+
+88 GPTs
+
+© Sora
+
+Today
+Graph Proposal Differ
+OCR in image on page 1 : 52725, 11:12AM
+
+hips chatgpt comiel68354e0-5228-8009.2430-e8bfScb0ccS
+
+Graph Proposal Differentiatio
+OCR in image on page 1 : 
+OCR in image on page 1 :  
+
++ Disney+ becomes new home of UWCL in Eurape
+
++ Wiamson; UWCL win ‘made
+
+ 
+
+tof people happy’
+
++ 
+OCR in image on page 1 : 48+ Aniruah Menen
+
+Neeraj Chopra's former coach Dr. Bartonietz: There's potential in India but
+must 
+OCR in image on page 1 :  
+
+Tanisha-Dhruv give mixed doubles hope for Indian badminton in testing times
+
+83+ Zenia O'Gunha
+
+T
+OCR in image on page 1 : Ronaldo hints at Al Nassr exit: ‘Chapter is over’
+Neymar out of Ancelotti first Brazil squad
+
+Free ‘
+OCR in image on page 1 :  
+
+ESPN India Awards 2024: Full ist of winners
+From D Gukesh to Manu Bhaker, from Avani
+Lokhara to H
+OCR in image on page 1 : Every medal India has won at the Olympics
+India at the Olympics has quite the history, with
+medals d
+OCR in image on page 1 : Copyright: © ESPN Sports Media Ltd. All rights
+reserved
+
+ESPN+
+1 original Series & Films
+
+wee UFC 31
+OCR in image on page 1 :  
+
+Home News Sport Business Innovation Culture Arts Travel Earth Audio Video. Live
+
+ 
+
+Greek coastgu
+OCR in image on page 1 : >
+
+‘Moment car drives into crowd at Liverpool trophy parade
+‘AS3-jear-old white British man has been
+OCR in image on page 1 :  
+
+@LIVE
+Dozens injured after car ploughs into Liverpool crowd as
+police say not terror-related
+
+Liv
+OCR in image on page 1 : 
+OCR in image on page 1 : American terms for a fetetc|
+
+GLOBAL
+
+Gaza ceasefire
+
+amore NEWS
+
+>) 32 mins O= PODCAST
+
+ 
+
+ 
+
+ 
+
+MO
+OCR in image on page 1 :  
+
+ 
+
+Churchill photo thief
+sentenced to two years in jail
+"The Roaring Lion'= ont ofthe 20th
+centur
+OCR in image on page 1 : IN HIsTORY >
+
+The first men to conquer
+Everest's ‘death zone’
+Having reach tvereat's summit forthe S
+OCR in image on page 1 : Why is King Charles in Canada, and what is the throne speech?
+‘The visit marks the first time for de
+OCR in image on page 1 : Iran's Palme d'Or-winning director cheered as he arrives home
+Director Jafar Panabi returns to Tran 
+OCR in image on page 1 : Fake discounts on Shein ‘breach law’, EU says
+Shein has one rionth to respand tothe EU's findings oF
+OCR in image on page 1 :  
+
+LATEST AUDIO >
+
+‘The tillion dalla court
+battle
+
+Bi Seve 28mne
+
+rr)
+GLOBAL
+TSW
+Lala t is
+° .
+ot h
+OCR in image on page 1 : > ‘Popcorn the hamster played cupid to help me find love’
+sysam0 Ya
+
+New York crypto investor accuse
+OCR in image on page 1 : Rushdie ‘pleased’ with attacker's maximum sentence
+‘Author Sir Salman Rushdie says he hopes the man 
+OCR in image on page 1 : India's colonial past revealed through 200 masterful paintings
+‘Anew show in Delhi features more tha
+OCR in image on page 1 : + Apr25 W1SK @ 44
+
+ 
+
+EB in write catalyst by Usman
+
+These Phrases Prove You Used .
+ChatGPT 9 omior
+
+OCR in image on page 1 : TRAVEL >
+
+‘The rare ‘blue ghosts' of North Carolina
+
+Tom Cruise explains how
+he managed his epic
+stu
+OCR in image on page 1 : ‘WORLD'S TABLE >
+
+What happens to family recipes when homeis lost?
+Anew book uses food to help human
+OCR in image on page 1 : >
+
+‘Maybe Venice is the city that can save the world’
+
+‘atthe 2025 Venice Architecture Biennale, cur
+OCR in image on page 1 : DISCOVER MORE FROM THE BSC
+
+ 
+
+ 
+
+ 
+
+Hog
+
+Hume News Spot Bets Imomon Cite Ar Tel Earth Allo Veo Une 
+OCR in image on page 1 : Sign in
+
+ 
+
+OCR in image on page 1 :  
+
+The incident occurred during Liverpool FC victory parade, leaving a child and adult with ‘serious
+OCR in image on page 1 :  
+
+OCR in image on page 1 : ‘Austrian court quashes ex-Chancellor Kurz's perjury conviction
+
+ 
+
+Germany and other allies lift re
+OCR in image on page 1 : Se ~Se 3
+
+SSS
+
+US envoy says Gaza ceasefire deal is on the table, as Israel prepares for ‘unpreceden
+OCR in image on page 1 :      
+
+Is a luxury watch a good investment? Here's what the experts say ©8:07
+
+ 
+
+When yau snooze, y
+OCR in image on page 1 : For the writer who doesn't think they have anything
+to offer—and why you're dead wrong
+
++ Apres W79K
+OCR in image on page 1 :      
+
+Hong Kong's baby pandas finally get names. Meet Jia Jia and De De
+She returned to Germany aft
+OCR in image on page 1 :  
+
+ 
+
+A former police chief serving time for murder and rape escaped from an Arkansas prison. Here's
+OCR in image on page 1 :  
+
+She grew up haunted by a uniquely American nightmare. It finally caught up with her at college
+
+ 
+OCR in image on page 1 : Chiiisue enintyy stares SUppUre ur eACHUSUANY My GUE! aU is UBauNEIE HOE HeUrUIUgiCa soul
+
+Dem| Lova
+OCR in image on page 1 :  
+
+The American ‘revenge travel’ surge is over. Fear and uncertainty are big factors
+European city a
+OCR in image on page 1 :  
+
+McDonald's is closing down CosMc's, its beverage-focused spinoff
+
+Sales of viral plush toy Labubu
+OCR in image on page 1 :  
+
+Aston Villa fumes over refereeing decision after missing out on Champions League qualification
+Ca
+OCR in image on page 1 :    
+
+‘I ae
+Jeanine Pirro steps into spotlight with response to murders of Israeli embassy staffers
+‘
+OCR in image on page 1 :  
+
+Anthropic says its new Al model can work almost an entire workday straight
+Openal and Nvidia amon
+OCR in image on page 1 : =
+5
+
+toy.
+
+ 
+
+bake.
+
+wa,
+
+ 
+
+be.
+
+Australia's jaw-dropping landscapes, from east to west
+
+ 
+
+OCR in image on page 1 : The 1-Minute Introduction That
+Makes People Remember You
+Forever
+
+A Behavioral Scientist's Trick to 
+OCR in image on page 1 :  
+
+OCR in image on page 1 :  
+
+OCR in image on page 1 : How to eat for better sleep
